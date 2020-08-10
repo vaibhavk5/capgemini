@@ -1,0 +1,88 @@
+
+ /*-----------Large device-------------*/
+ 
+@media only screen and (min-width:1920px;){
+	
+}
+
+@media only screen and (min-width:1680px;){
+	
+}
+
+@media only screen and (min-width:1600px;){
+	
+}
+
+
+@media only screen and (min-width:1440px;){
+	
+}
+
+@media only screen and (min-width:1400px;){
+	
+}
+
+
+@media only screen and (min-width:1360px;){
+	
+}
+
+
+@media only screen and (min-width:1280px){
+	
+}
+
+@media only screen and (min-width:1152px){
+	
+}
+
+@media only screen and (min-width:1024px){
+	
+}
+
+  /*-------Small devices for phones/i-pad -------*/
+
+@media only screen and (max-width:768px){	
+	
+}
+
+
+@media only screen and (max-width:757px){
+		
+}
+
+
+@media only screen and (max-width: 414px){
+	
+}
+
+
+@media only screen and (max-width: 375px){
+		
+}
+
+
+@media only screen and (max-width: 320px) {
+	
+}
+
+
+/*-------Landscape mode---------*/
+ 
+@media only screen and (max-width: 1024px) and (orientation: landscape) {
+	
+} 
+ 
+@media only screen and (max-width: 812px) and (orientation: landscape)  {
+	
+} 
+
+@media only screen and (max-width: 736px) and (orientation: landscape)  {
+	
+}	
+
+@media only screen and (max-width: 667px) and (orientation: landscape)  {
+	
+}
+	
+

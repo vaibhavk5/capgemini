@@ -116,14 +116,14 @@ ul{ padding: 0px;
  .investors_icon{width: 12px; height: 12px; background-color: var(--colors-additional-dark-grey);}
 
 .invest{
-    background-image: url('../images/redirect.svg');
+    background-image: url('images/redirect.svg');
     background-repeat: no-repeat;
     background-position: left;
     padding-left: 5px;
 }
 
 .globe{
-    background-image: url('../images/globe.svg');
+    background-image: url('images/globe.svg');
     background-repeat: no-repeat;
     background-position: left;
     padding-left: 5px;
@@ -247,7 +247,7 @@ ul{ padding: 0px;
  .morestories{
     position:relative; 
     color: $purplecolorfont;letter-spacing:$standered;z-index:1;
-    background-image: url('../images/greybg.svg');background-repeat: no-repeat; background-position: 0px 2%;background-size:100%;background-position: center bottom;
+    background-image: url('images/greybg.svg');background-repeat: no-repeat; background-position: 0px 2%;background-size:100%;background-position: center bottom;
     background-size: cover;
     float: left;
     width: 100%;
@@ -283,7 +283,7 @@ ul{ padding: 0px;
      &:hover{margin-left: 20px;} 
   }
 }
- .lineshape{position:relative;z-index:1;background-image: url('../images/line.svg');position: absolute;width: 100%; height:80em; top: 142px;background-repeat: no-repeat;background-size: 100%;}
+ .lineshape{position:relative;z-index:1;background-image: url('images/line.svg');position: absolute;width: 100%; height:80em; top: 142px;background-repeat: no-repeat;background-size: 100%;}
 
  .readall{@include allbutton;
     &:hover {
@@ -314,7 +314,7 @@ ul{ padding: 0px;
 
     &::after{
         content: "";
-   background-image: url('../images/purplearrowsmall.svg');
+   background-image: url('images/purplearrowsmall.svg');
     width: 23px;
     background-repeat: no-repeat;
     height: 14px;
@@ -347,8 +347,8 @@ filter: progid:DXImageTransform.Microsoft.Alpha(opacity=40); /* IE6+ */
     width: 100%;float: left;margin-bottom:128px;
     font-family:'Ubuntu';overflow: hidden;
 
-    background: url('../images/xl-shape-2.svg') no-repeat 50% calc(100% - 50px)/100% auto,
-    url('../images/xl-line-2.svg') no-repeat bottom/100% auto;
+    background: url('images/xl-shape-2.svg') no-repeat 50% calc(100% - 50px)/100% auto,
+    url('images/xl-line-2.svg') no-repeat bottom/100% auto;
     background-repeat: no-repeat;background-size: 100%;background-position: 100% 85%;
     .boxflorocent{background-color:#95e616; width: 483px; 
         padding: 40px;
